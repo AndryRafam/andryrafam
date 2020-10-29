@@ -5,6 +5,4 @@ Trained as a mathematician, I also have a deep passion for programming. I spend 
 
 <p align="center"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cplusplus.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="60"/> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" alt="linux" width="60" height="60"/> <img src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" width="120" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Crypto%2B%2B-logo.png" width="140" height="50"/>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndryRafam&layout=compact&hide=html" alt="AndryRafam" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndryRafam&show_icons=true" alt="AndryRafam" /></p>
