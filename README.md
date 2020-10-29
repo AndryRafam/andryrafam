@@ -8,4 +8,5 @@ My fields of interest are: Artificial Intelligence; Cryptography && Cybersecurit
  
 <h2 align="center"> :triangular_ruler: Mathematics </h2>
 <h4 algin="center"> ALGEBRA | ALGEBRAIC TOPOLOGY | ALGORITHMIC && COMPLEXITY | DIFFERENTIAL GEOMETRY | NUMBER THEORY </h4>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndryRafam&layout=compact&hide=html" alt="AndryRafam" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndryRafam&show_icons=true" alt="AndryRafam" /></p>
