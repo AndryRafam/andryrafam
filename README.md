@@ -1,5 +1,8 @@
 <h1 align="center"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy </h1>
-Trained as a mathematician, I also have a deep passion for programming. I spend all of my time between both disciplines. On one hand, I am working on building open source program and contributing to open source community. On the other hand, I am teaching mathematics and programming to high school students and thus, sharing my passion to young generations. My fields of interest are: Artificial Intelligence; Cryptography && Cybersecurity; Quantum Computing.
+:blue_book: Background Training **Mathematics (Graduated MSc Degree)**
+:scroll: Occupation **Teaching Maths and Programming (C++/Python) to high school students. Building open source programs.**
+:strawberry: Field of interest **Artificial Intelligence; Cryptography && Cybersecurity; Quantum Computing.**
+:mailbox_closed: How to reach me **andryrafam@protonmmail.com**
 
 <h2 align="center"> :minidisc: Technologies && Tools </h2>
 
