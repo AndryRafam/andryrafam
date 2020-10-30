@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy </h1>
 
-:blue_book: Background Training: **Mathematics (MSc Degree).**
+:blue_book: Background Training: **Mathematics.**
 
 :scroll: Occupation: **Teaching Maths and Programming (C++/Python) to high school students. Building open source programs.**
 
