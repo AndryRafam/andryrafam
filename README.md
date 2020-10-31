@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy </h1>
 
+<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Pi.png" width="2000" height="400"/>
+
 :blue_book: Background Training: **Mathematics.**
 
 :scroll: Occupation: **Building open source programs. Teaching Maths and Programming (C++/Python) to high school students.**
