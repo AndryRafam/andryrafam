@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy </h1>
 
-<h2 align="center"> Passionate coder and Maths lover.
+<h3 align="center"> Passionate coder and Maths lover. </h3>
 
 :blue_book: Background Training: **Mathematics.**
 
