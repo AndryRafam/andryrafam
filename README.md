@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy </h1>
 
-<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Pi.png" width="2000" height="400"/>
+<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Pi.png" width="1000" height="400"/>
 
 :blue_book: Background Training: **Mathematics.**
 
