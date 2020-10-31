@@ -9,7 +9,7 @@
 
 :scroll: Occupation: **Building open source programs. Teaching Maths and Programming (C++/Python) to high school students.**
 
-:strawberry: Field of interest: **Artificial Intelligence; Cryptography && Cybersecurity; Quantum Computing.**
+:strawberry: Field of interest: **Artificial Intelligence, Cryptography && Cybersecurity, Quantum Computing.**
 
 :mailbox_closed: How to reach me: **andryrafam@protonmail.com**
 
