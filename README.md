@@ -2,7 +2,7 @@
 
 :blue_book: Background Training: **Mathematics.**
 
-:scroll: Occupation: **Teaching Maths and Programming (C++/Python) to high school students. Building open source programs.**
+:scroll: Occupation: **Building open source programs. Teaching Maths and Programming (C++/Python) to high school students.**
 
 :strawberry: Field of interest: **Artificial Intelligence; Cryptography && Cybersecurity; Quantum Computing.**
 
