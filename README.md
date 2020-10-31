@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy </h1>
 
-<h3 align="center"> Passionate coder and Maths lover. </h3>
+<h2 align="center"> Passionate coder and Maths lover. </h2>
 
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/cryptocurrency.jpg"/>
 
