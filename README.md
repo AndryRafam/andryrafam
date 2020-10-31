@@ -2,7 +2,7 @@
 
 <h3 align="center"> Passionate coder and Maths lover. </h3>
 
-![]("https://github.com/AndryRafam/Program-Output/blob/master/cryptocurrency.jpg")
+![](https://github.com/AndryRafam/andryrafam/blob/main/cryptocurrency.jpg)
 
 
 :blue_book: Background Training: **Mathematics.**
