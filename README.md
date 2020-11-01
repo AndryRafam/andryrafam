@@ -4,6 +4,7 @@
 
 ![](https://github.com/AndryRafam/andryrafam/blob/main/cryptocurrency.jpg)
 
+![](https://komarev.com/ghpvc/?username=AndryRafam&style=plastic&color=blueviolet)
 
 :blue_book: Background Training: **Mathematics.**
 
