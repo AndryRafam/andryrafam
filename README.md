@@ -1,8 +1,8 @@
-![](https://github.com/AndryRafam/andryrafam/blob/main/cryptocurrency.jpg)
-
 <h1 align="center"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy </h1>
 
 <h3 align="center"> Passionate coder and Maths lover. </h3>
+
+![](https://github.com/AndryRafam/andryrafam/blob/main/cryptocurrency.jpg)
 
 :blue_book: Background Training: **Mathematics.**
 
