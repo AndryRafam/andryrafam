@@ -2,7 +2,7 @@
 
 <h3 align="center"> Passionate coder and Maths lover. </h3>
 
-![](https://github.com/AndryRafam/andryrafam/blob/main/header.jpg)
+<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="650"/>
 
 :blue_book: Background Training: **Mathematics.**
 
