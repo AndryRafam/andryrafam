@@ -2,8 +2,6 @@
 
 <h3 align="center"> Passionate coder and Maths lover. </h3>
 
-![](https://github.com/AndryRafam/andryrafam/blob/main/Maths.jpg)
-
 :blue_book: Background Training: **Mathematics.**
 
 :scroll: Occupation: **Building open source programs. Teaching Maths and Programming (C++/Python) to high school students.**
