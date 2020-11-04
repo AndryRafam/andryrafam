@@ -1,5 +1,4 @@
-<h2 align="center"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy, a passionate coder and Maths lover.</h2>
-
+![Banner](https://github.com/AndryRafam/andryrafam/blob/main/Andry_Banner.png)
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="500"/>
 
 :blue_book: Background Training: **Mathematics.**
