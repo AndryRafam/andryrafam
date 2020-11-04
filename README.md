@@ -1,4 +1,4 @@
-![Banner](https://github.com/AndryRafam/andryrafam/blob/main/Andry_Banner.png)
+
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="500"/>
 
 :blue_book: Background Training: **Mathematics.**
