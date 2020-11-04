@@ -1,6 +1,7 @@
 <h1 align="left"> Hi 👋 :grin: :metal:, I'm Andry Rafam Andrianjafy. </h1>
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="500"/>
 <h2 align="left"> :blue_book: About me </h2>
+
 Trained as a mathematician, I am passionate about two things: **Mathematics** and **Programming.** Since 2018; I am working 
 
 :scroll: Occupation: **Building open source programs. Teaching Maths and Programming (C++/Python) to high school students.**
