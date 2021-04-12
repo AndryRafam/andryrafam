@@ -5,7 +5,7 @@ Trained as a mathematician, I am passionate about two things: **Mathematics** an
 
 <h2 align="left"> :scroll: Field of interest </h2>
 
-**Artificial Intelligence, Cryptography and Cybersecurity, Quantum Computing.**
+**Cryptography && Cybersecurity, Quantum Computing.**
 
 <h2 algin="left"> :minidisc: Technologies and Tools </h2>
 
