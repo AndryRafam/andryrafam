@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="530"/>
+<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="520"/>
 <h2 align="left"> :blue_book: About me </h2>
 
 Trained as a mathematician, I am passionate about two things: **Mathematics** and **Programming**. For more than two years, I spend all of my time between both disciplines. On one hand, I am **teaching mathematics and programming (C++/Python) to high school students** and thus, sharing my passion with young generations, and; on the other hand, I am **working on building open source program and contributing to open source community.**
