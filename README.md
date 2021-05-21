@@ -15,4 +15,4 @@ Trained as a mathematician, I am passionate about two things: **Mathematics** an
 
 <h2 align="left"> :triangular_ruler: Stats </h2>
  
-![](https://github-readme-stats.vercel.app/api?username=AndryRafam&show_icons=true&theme=tomorrow_dark)
+![](https://github-readme-stats.vercel.app/api?username=AndryRafam&show_icons=true&theme=tomorrow)
