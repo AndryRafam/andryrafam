@@ -7,7 +7,7 @@ Trained as a mathematician, I am passionate about two things: **Mathematics** an
 
 * Cryptography && Cybersecurity 
 * AI && Deep Learning
-* Quantum Computing
+* Quantum Computing 
   
 <h2 algin="left"> :minidisc: Technologies and Tools </h2>
 
