@@ -3,7 +3,7 @@
 
 Trained as a mathematician, I am passionate about two things: **Mathematics** and **Programming**. For more than two years, I spend all of my time between both disciplines. On one hand, I am **teaching mathematics and programming (C++/Python) to high school students** and thus, sharing my passion with young generations, and; on the other hand, I am **working on building open source program and contributing to open source community.**
 
-<h2 align="left"> :scroll: Field of interest </h2>
+<h2 align="left"> :scroll: Fields of interest </h2>
 
 * Cryptography && Cybersecurity 
 * AI && Deep Learning
