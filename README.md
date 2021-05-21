@@ -5,9 +5,10 @@ Trained as a mathematician, I am passionate about two things: **Mathematics** an
 
 <h2 align="left"> :scroll: Field of interest </h2>
 
-**Cryptography && Cybersecurity, AI && Deep Learning, Quantum Computing**
+* Cryptography && Cybersecurity 
+* AI && Deep Learning
+* Quantum Computing
   
-
 <h2 algin="left"> :minidisc: Technologies and Tools </h2>
 
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" alt="linux" width="50" height="50"/> <img src="https://github.com/AndryRafam/andryrafam/blob/main/vscode.png" width="50" height="50"/> <img src="https://github.com/AndryRafam/andryrafam/blob/main/atom-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Crypto%2B%2B-logo.png" width="130" height="50"/>
