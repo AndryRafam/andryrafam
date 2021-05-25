@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="500"/>
 <h3> :blue_book: About me </h3>
 
-Trained as a mathematician, I am passionate about two things: **Mathematics** and **Programming**. For more than two years, I spend all of my time between both disciplines. On one hand, I am **teaching mathematics and programming (C++/Python) to high school students** and thus, sharing my passion with young generations, and; on the other hand, I am **working on building open source program and contributing to open source community.**
+Trained as a mathematician, I am passionate about three things: **Mathematics**, **Aritificial Intelligence** and **Programming**. Since 2018, I am building open source programs in C++; mainly for Linux OS. On the other hand, I am also working as a Data Scientist (since 2021); applying ML/DL algorithms and building neural networks in order to solve complex problems. 
 
 <h3> :scroll: Fields of interest </h3>
 
-<h4> Cryptography && Cybersecurity | Artificial Intelligence && Deep Learning | Quantum Computing </h4>
+<h4> Cryptography | Artificial Intelligence && Deep Learning | Quantum Computing </h4>
   
 <h3> :minidisc: Technologies and Tools </h3>
 
