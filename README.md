@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="500"/>
 <h3> :blue_book: About me </h3>
 
-Trained as a mathematician, I am passionate about three things: **Mathematics**, **Aritificial Intelligence** and **Programming**. Since 2018, I am building open source programs in C++; mainly for Linux OS. On the other hand, I am also working as a Data Scientist (since 2021); applying ML/DL algorithms and building neural networks in order to solve complex problems. 
-
+Mathematician by training; works as a **C++ Developer (Building open source programs for Linux OS)** since 2018 and as a **Data Scientist** since 2021. Great interest for Artificial Intelligence, especially Artificial Neural Networks and Deep Learning. 
+ 
 <h3> :scroll: Fields of interest </h3>
 
 <h4> Cryptography | Artificial Intelligence && Deep Learning | Quantum Computing </h4>
