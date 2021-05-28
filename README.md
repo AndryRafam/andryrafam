@@ -15,4 +15,4 @@ Mathematician by training; works as a **C++ Developer (Building open source prog
 
 <h3> :triangular_ruler: Stats </h3>
  
-![](https://github-readme-stats.vercel.app/api?username=AndryRafam&show_icons=true&theme=tomorrow)
+![](https://github-readme-stats.vercel.app/api?username=AndryRafam&show_icons=true&theme=monokai)
