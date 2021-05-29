@@ -2,7 +2,7 @@
 <h2> :blue_book: About me </h2>
 
 Mathematician by training, works as a **Data Scientist**. Great interest for Artificial Intelligence; especially Artificial Neural Network && Deep Learning.
-Also, for more than two years, I am **building open source programs in C++ for Linux OS**(Debian distros)
+Also, for more than two years, I am **building open source programs in C++ for Linux OS**(Debian distros).
  
 <h2> :scroll: Fields of interest </h2>
 
