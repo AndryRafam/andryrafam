@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="500"/>
 <h2> :blue_book: About me </h2>
 
-Mathematician by training, I am working as a **Data Scientist**; building **Artificial Neural Networks** in order to solve classification problem (Image, Sentiment Analysis ...) and object recognition problem. On the other hand, for more than two years, I am **building open source programs in C++ for Linux OS**(Debian distros).
+Mathematician by training, I am working as a **Data Scientist**; building **Artificial Neural Networks** in order to solve classification problem (Image, Sentiment Analysis ...) and object recognition problem. On the other hand, I am also **building open source programs in C++ for Linux OS** (Debian distros) and contributing to open source community on GitHub.
  
 <h2> :scroll: Fields of interest </h2>
 
