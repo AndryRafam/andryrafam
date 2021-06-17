@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Machine-Learning-AI-Concept.gif" width="1400" height="500"/>
 <h2> :blue_book: About me </h2>
 
-**Mathematician** by training and working as a **Data Scientist**, I am deeply passionate about Artificial Intelligence; especially **Deep Learning**. On the other hand, I am also **building open source programs in C++ for Linux OS** (Debian distros) and contributing to open source community through GitHub.
+Trained as a **Mathematician** and working as a **Data Scientist**, I am deeply passionate about Artificial Intelligence; especially **Deep Learning**. On the other hand, I am also **building open source programs in C++ for Linux OS** (Debian distros) and contributing to open source community through GitHub.
  
 <h2> :scroll: Fields of interest </h2>
 
