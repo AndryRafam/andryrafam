@@ -5,7 +5,7 @@ Trained as a **Mathematician** and working as a **Data Scientist**, I am deeply 
  
 <h2> :scroll: Fields of interest </h2>
 
-<h4> Cryptography | Artificial Intelligence && Deep Learning | Quantum Computing </h4>
+<h4> Cryptography | Artificial Intelligence | Machine Learning |Deep Learning | Quantum Computing </h4>
   
 <h2> :minidisc: Technologies and Tools </h2>
 
