@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Machine-Learning-AI-Concept.gif" width="1400" height="500"/>
+<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/dream.png" width="1400" height="500"/>
+An example of Deep Dream algorithm.
+ 
 <h2> :blue_book: About me </h2>
 
 Trained as a Mathematician, I used to teach mathematics and basics of programming to high school students for nearly 3 years. Since 2021, I am working as a full time Data Scientist. My day to day work is mainly focused on building predictive models, especially Deep Learning models.
