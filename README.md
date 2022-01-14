@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/dream.png" width="1400" height="500"/>
-An example of Deep Dream algorithm.
+<h3> An example of Deep Dream algorithm. </h3>
  
 <h2> :blue_book: About me </h2>
 
