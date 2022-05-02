@@ -2,7 +2,7 @@
  
 <h2> :blue_book: About me </h2>
 
-Trained as a Mathematician, I used to teach mathematics and basics of programming to high school students for nearly 3 years. Since 2021, I am working as a full time Data Scientist first, and then as a full time Deep Learning Engineer. My day to day work is mainly focused on building Deep Learning models; either from scracth or models that leveraged from transfer learning.
+Trained as a Mathematician, I used to teach mathematics and basics of programming to high school students for nearly 3 years. Since 2021, I am working as a full time Data Scientist first, and then as a full time Deep Learning Engineer. My day to day work is mainly focused on building Deep Learning models; mostly in the field of computer vision.
  
 <h2> :scroll: Fields of interest </h2>
 
