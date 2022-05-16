@@ -1,10 +1,10 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="525"/>
  
-<h2> :scroll: Fields of interest </h2>
+<h2> Fields of interest </h2>
 
 <h4> Cryptography | Artificial Intelligence | Deep Learning | Computer Vision | Quantum Computing </h4>
   
-<h2> :minidisc: Technologies and Tools </h2>
+<h2> Technologies and Tools </h2>
 
 | Programming Languages | OS | Code editors | Libraries |
 | --- | --- | --- | --- |
