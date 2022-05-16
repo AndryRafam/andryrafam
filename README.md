@@ -1,9 +1,5 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1400" height="525"/>
  
-<h2> :blue_book: About me </h2>
-
-Trained as a Mathematician, I used to teach mathematics and basics of programming to high school students for nearly 3 years. Since 2021, I am working as a full time Data Scientist first, and then as a full time Deep Learning Engineer. My day to day work is mainly focused on building Deep Learning models; mostly in the field of computer vision.
- 
 <h2> :scroll: Fields of interest </h2>
 
 <h4> Cryptography | Artificial Intelligence | Machine Learning | Deep Learning | Quantum Computing </h4>
