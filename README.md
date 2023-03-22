@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="800" height="500"/>
+<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Mathematics-Formulas-Calculations.gif" width="800" height="500"/>
  
 <h2> Fields of interest </h2>
 
