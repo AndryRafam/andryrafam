@@ -2,6 +2,7 @@
 
 <p align="center"> 
 <h1> Hi 👋, I am Andry. Welcome to my GitHub page. </h1>
+</p>
  
 <h2> Fields of interest </h2>
 
