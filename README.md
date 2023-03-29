@@ -3,6 +3,7 @@
 
 <h2> Fields of interest </h2>
 My **fields of interest** are the following:
+
 <h4> :electron: Cryptography :electron: Artificial Intelligence :electron: Deep Learning :electron: Computer Vision :electron: Quantum Computing </h4>
   
 <h2> Technologies and Tools </h2>
