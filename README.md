@@ -1,9 +1,9 @@
-<h1 align="center"> Hi 👋, I am Andry. Welcome to my GitHub page. </h1>
+<h1 align="center"> Hi 👋, I am Andry. Welcome to my GitHub page. </h1> 🇲🇬
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="550"/>
 
 <h2> Fields of interest </h2>
 
-<h4> :electron: Cryptography  :electron: Artificial Intelligence  :electron: Deep Learning  :electron: Computer Vision  :electron: Quantum Computing </h4>
+<h4> :electron: Cryptography :electron: Artificial Intelligence :electron: Deep Learning :electron: Computer Vision :electron: Quantum Computing </h4>
   
 <h2> Technologies and Tools </h2>
 
