@@ -1,6 +1,7 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="600"/>
 
-<p align="center"> <h1> Hi 👋, I am Andry. Welcome to my GitHub page. </h1>
+<p align="center"> 
+<h1> Hi 👋, I am Andry. Welcome to my GitHub page. </h1>
  
 <h2> Fields of interest </h2>
 
