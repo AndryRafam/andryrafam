@@ -1,5 +1,6 @@
 <h1 align="center"> Hi 👋, I am Andry, welcome to my GitHub page. </h1>
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="550"/>
+### Data Scientist with focus in Deep Learning, I am also a passionate C++ programmer. On the other hand, I am also working as a part time Mathematics and programming tutor. A last, I really enjoy building  open source programs as well as contributing to open source projetcs on GitHub.  
 
 <h2> Fields of interest </h2>
 
