@@ -5,7 +5,7 @@
 
 <h2> Fields of interest </h2>
 
-<h4> 🔶 Applied Mathematics 🔶 Cryptography 🔶 Artificial Intelligence 🔶 Deep Learning 🔶 Computer Vision </h4>
+<h3> 🔶 Applied Mathematics 🔶 Cryptography 🔶 Artificial Intelligence 🔶 Deep Learning 🔶 Computer Vision </h3>
   
 <h2> Technologies and Tools </h2>
 
