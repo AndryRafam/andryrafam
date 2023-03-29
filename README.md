@@ -2,9 +2,8 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="550"/>
 
 <h2> Fields of interest </h2>
-**My fields of interest are the following:
 
-<h4> :electron: Cryptography :electron: Artificial Intelligence :electron: Deep Learning :electron: Computer Vision :electron: Quantum Computing </h4>
+<h4> 🔸Cryptography 🔸Artificial Intelligence 🔸Deep Learning 🔸Computer Vision 🔸Quantum Computing </h4>
   
 <h2> Technologies and Tools </h2>
 
