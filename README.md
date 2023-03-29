@@ -1,4 +1,4 @@
-<h2 align="center"> Hello 👋, I am Andry. Welcome to my GitHub page. Enjoy your visit. </h2>
+<h1 align="center"> Hello 👋, I am Andry. Welcome to my GitHub page. </h1>
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="550"/>
   
 <h2> Fields of interest </h2>
