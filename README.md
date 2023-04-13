@@ -1,4 +1,4 @@
-<h3> Hello 👋, my name is Andry. I am a Data Scientist with focus on Deep Learning and a passionante C++ programmer. Welcome to my GitHub page. </h3>
+<h3 align="center"> Hello 👋, my name is Andry .Welcome to my GitHub page. </h3>
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="550"/>
 <h3 align="center"> Data Scientist (focus on Deep Learning) and a passionate C++ programmer. </h3>
 <h2> Fields of interest </h2>
