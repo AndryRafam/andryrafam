@@ -1,4 +1,4 @@
-<h2 align="center"> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
+<h1 align="center"> Hello, I'm Andry 👋 Welcome to my GitHub page. </h1>
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Lorenz.gif" width="800" height="600"/>
 <h3 align="center"> Data Scientist (focus on Deep Learning) and a passionate C++ programmer. </h3>
 <h2> Fields of interest </h2>
