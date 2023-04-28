@@ -1,6 +1,6 @@
 <h2> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
 <p align="center"> I am a Mathematics (private) teacher, Data Scientist (with strong focus on Deep Learning) and a passionate C++ programmer.
-<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="800" height="500"/>
+<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="600"/>
 <h2> Fields of interest </h2>
 
 <h4> 🔶 Applied Mathematics 🔶 Cryptography 🔶 Artificial Intelligence 🔶 Deep Learning 🔶 Computer Vision </h4>
