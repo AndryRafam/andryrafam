@@ -1,5 +1,5 @@
 <h2 align="center"> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
-<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/neural_network.gif" width="900" height="500"/>
+<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/neural_network.gif" width="900" height="450"/>
 <h2 align="center"> Fields of interest </h2>
 
 <div align="center">
