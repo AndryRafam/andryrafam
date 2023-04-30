@@ -5,11 +5,11 @@
 <div align="center">
   
 ![](https://img.shields.io/badge/Applied-Mathematics-success.svg?style=for-the-badge&logo)
-&nbsp
+
 ![](https://img.shields.io/badge/Artificial-Intelligence-success.svg?style=for-the-badge&logo)
-&nbsp
+
 ![](https://img.shields.io/badge/Deep-Learning-success.svg?style=for-the-badge&logo)
-&nbsp
+
 ![](https://img.shields.io/badge/Computer-Vision-success.svg?style=for-the-badge&logo)
   
 </div>
