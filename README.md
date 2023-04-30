@@ -2,11 +2,13 @@
 <p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="500"/>
 <h2 align="center"> Fields of interest </h2>
 
-<div align="center">  
+<div align="center">
+  
 ![](https://img.shields.io/badge/Applied-Mathematics-important.svg?style=for-the-badge&logo)
 ![](https://img.shields.io/badge/Artificial-Intelligence-important.svg?style=for-the-badge&logo)
 ![](https://img.shields.io/badge/Deep-Learning-important.svg?style=for-the-badge&logo)
 ![](https://img.shields.io/badge/Computer-Vision-important.svg?style=for-the-badge&logo)
+  
 </div>
 
 <h2 align="center"> Tools and technologies </h2>
