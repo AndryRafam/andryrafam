@@ -1,7 +1,9 @@
-<h2 align="center"> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
-<p align="center"> <img src="https://github.com/AndryRafam/andryrafam/blob/main/neural_network.gif" width="900" height="475"/>
-<h2 align="center"> 📜 Fields of interest 📜 </h2>
-
+<div align="center">
+  <h2> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
+  <img src="https://github.com/AndryRafam/andryrafam/blob/main/neural_network.gif" width="900" height="475"/>
+  <h2> 📜 Fields of interest 📜 </h2>
+</div>
+  
 <div align="center">
   
   ![](https://img.shields.io/badge/Applied-Mathematics-success.svg?style=for-the-badge&logo)
