@@ -4,10 +4,10 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/Applied-Mathematics-important.svg?style=for-the-badge&logo)
-![](https://img.shields.io/badge/Artificial-Intelligence-important.svg?style=for-the-badge&logo)
-![](https://img.shields.io/badge/Deep-Learning-important.svg?style=for-the-badge&logo)
-![](https://img.shields.io/badge/Computer-Vision-important.svg?style=for-the-badge&logo)
+![](https://img.shields.io/badge/Applied-Mathematics-success.svg?style=for-the-badge&logo)
+![](https://img.shields.io/badge/Artificial-Intelligence-success.svg?style=for-the-badge&logo)
+![](https://img.shields.io/badge/Deep-Learning-success.svg?style=for-the-badge&logo)
+![](https://img.shields.io/badge/Computer-Vision-success.svg?style=for-the-badge&logo)
   
 </div>
 
