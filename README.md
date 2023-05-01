@@ -1,8 +1,8 @@
 <div align="center">
   <h2> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
 </div>
-<h4 align="center"> I am a Mathematics tutor, Data Scientist (with focus on Deep Learning) and a passionate C++ programmer. </h4>
 <div align="center">
+  <h4> I am a Mathematics tutor, Data Scientist (with focus on Deep Learning) and a passionate C++ programmer. </h4>
   <img src="https://github.com/AndryRafam/andryrafam/blob/main/neural_network.gif" width="900" height="475"/>
   <h2> 📜 Fields of interest 📜 </h2>
   
