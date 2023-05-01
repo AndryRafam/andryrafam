@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h4> I am a Mathematics tutor, Data Scientist (with focus on Deep Learning) and a passionate C++ programmer.</h4>
-  </br></br>
+  </br>
   <img src="https://github.com/AndryRafam/andryrafam/blob/main/neural_network.gif" width="900" height="500"/>
   <h2> 📜 Fields of interest 📜 </h2>
   
