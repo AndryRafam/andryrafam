@@ -2,7 +2,7 @@
   <h2> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
 </div>
 <div align="center">
-  <img src="https://github.com/AndryRafam/andryrafam/blob/main/neural_network.gif" width="900" height="500"/>
+  <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="500"/>
   <h2> 📜 Fields of interest 📜 </h2>
   
   ![](https://img.shields.io/badge/Applied-Mathematics-success.svg?style=for-the-badge&logo)
