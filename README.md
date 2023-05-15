@@ -2,6 +2,8 @@
   <h2> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
 </div>
 
+![Output](https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif)
+
   - 👋 Maths private tutor, Data Scientist (with focus on Deep Learning) and a passionate C++ programmer.
   - 👀 My fields of interest are: Applied Mathematics, Artificial Intelligence, Computer Vision, Deep Learning.
   - 📬 You can reach at: https://www.linkedin.com/in/rrafam/
