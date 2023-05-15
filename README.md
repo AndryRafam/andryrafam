@@ -2,10 +2,10 @@
   <h2> Hello, I'm Andry 👋 Welcome to my GitHub page. </h2>
   <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="500"/>
 </div>
-
+</br>
   - 👋 Maths private tutor, Data Scientist (with focus on Deep Learning) and a passionate C++ programmer.
   - 👀 My fields of interest are: Applied Mathematics, Artificial Intelligence, Computer Vision, Deep Learning.
-  - 📬 You can reach at: https://www.linkedin.com/in/rrafam/
+  - 📬 You can reach me at: https://www.linkedin.com/in/rrafam/
 
 <div align="center">
   <h2> 💽 Tools and technologies 💽 </h2>
