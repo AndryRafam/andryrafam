@@ -4,7 +4,7 @@
 </div>
 </br>
 
-  - 🌴 Maths private tutor, Data Scientist (with focus on Deep Learning) and a passionate C++ programmer.
+  - 🌴 Passionate C++ programmer and former Data Scientist (with focus on Deep Learning). Teaching programming, especially fundamentals: Data Structures and Algorithm (DSA).
   - 👀 My fields of interest are: Applied Mathematics, Artificial Intelligence, Computer Vision, Deep Learning.
   - 📬 You can reach me at: https://www.linkedin.com/in/rrafam/
 
