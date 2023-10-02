@@ -5,7 +5,7 @@
 </br>
 
   - 🌴 Passionate C++ programmer and Data Scientist (with focus on Deep Learning).
-  - 👀 My fields of interest are: Applied Mathematics, Artificial Intelligence, Computer Vision, Cryptography, Deep Learning.
+  - 👀 My fields of interest are: Applied Mathematics, Artificial Intelligence, Cryptography, HPC, System Programming.
   - 📬 You can reach me at: https://www.linkedin.com/in/rrafam/
 
 <div align="center">
