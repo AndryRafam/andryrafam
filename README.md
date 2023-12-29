@@ -3,7 +3,7 @@
 </div>
 </br>
 
-  - 🌴 Passionate C++ programmer and Data Scientist (with focus on Deep Learning).
+  - 🌴 C++ programmer with deep passion for applied mathematics and artificial intelligence; especially deep learning.
   - 👀 My fields of interest are: Applied Mathematics, Artificial Intelligence, Cryptography, System Programming.
 <!--
 <div align="center">
