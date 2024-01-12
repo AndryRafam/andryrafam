@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="900" height="500"/>
+  <img src="https://github.com/AndryRafam/andryrafam/blob/main/Lorenz.gif" width="900" height="500"/>
 </div>
 </br>
 
