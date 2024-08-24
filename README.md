@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andry Rafam</h1>
 <div align="center">
-  <img src="https://github.com/AndryRafam/andryrafam/blob/main/BlackHole.gif" width="850" height="600"/>
+  <img src="https://github.com/AndryRafam/andryrafam/blob/main/BlackHole.gif" width="850" height="500"/>
 </div>
 </br>
 <!--
