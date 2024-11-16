@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AndryRafam/andryrafam/blob/main/Mount-Fuji-Anime.jpg" width="900" height="550"/>
+  <img src="https://github.com/AndryRafam/andryrafam/blob/main/Mount-Fuji-Anime.jpg" width="1000" height="600"/>
 </div>
 </br>
 <!--
