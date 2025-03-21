@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AndryRafam/andryrafam/blob/main/Mount-Fuji-Anime.jpg" width="1200" height="600"/>
+  <img src="https://github.com/AndryRafam/andryrafam/blob/main/ACM-Hattori_Hanzo.png" width="800" height="1000"/>
 </div>
 </br>
 <!--
