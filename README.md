@@ -1,4 +1,3 @@
-<!--
 <div align="center">
   <img src="https://github.com/AndryRafam/andryrafam/blob/main/ACM-Hattori_Hanzo.png" width="800" height="1000"/>
 </div>
