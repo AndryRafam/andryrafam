@@ -4,5 +4,5 @@
 
 <h2 align="left"> 💻 Tech Stack: </h2>
 <p align="left">
-  <img src = "https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" width="80" alt="C++"> <img src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" width="100" alt="Python"> <img src = "https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" width="105" alt="PyTorch"> <img src = "https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" width="140" alt="Tensorflow"> <img src = "https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" width="170" alt="Visual Studio Code">
+  <img src = "https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" width="80" alt="C++"> <img src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" width="100" alt="Python"> <img src = "https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" width="105" alt="PyTorch"> <img src = "https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" width="140" alt="Tensorflow"> <img src = "https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" width="190" alt="Visual Studio Code">
 </p>
