@@ -4,7 +4,5 @@
 
 <h2 align="left"> 💻 Tech Stack: </h2>
 <p align="left">
-  <img src = "https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" width="200" alt="C++">
+  <img src = "https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" width="100" alt="C++"> <img src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" width="100" alt="Python"> <img src = "https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" width="100" alt="PyTorch"> <img src = "https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" width="100" alt="Tensorflow"> <img src = "https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" width="100" alt="Visual Studio Code">
 </p>
-
- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
