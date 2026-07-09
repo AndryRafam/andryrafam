@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://github.com/AndryRafam/andryrafam/blob/main/Mathematics-Formulas-Calculations.gif" width="800" height="600">
+  <img src = "https://github.com/AndryRafam/andryrafam/blob/main/Mathematics-Formulas-Calculations.gif" width="1000" height="800">
 </p>
 
 <h2 align="left"> 💻 Tech Stack: </h2>
