@@ -3,7 +3,7 @@
 </p>
 <h2 align="left"> 📜 Field of Intereset </h2>
 
-* **C++ Software Development, System Programming.**
+* **C++ Software Development, C++ System Programming**
 * **Parallel Programming, High Performance Computing/HPC**
 * **Artificial Intelligence - Deep Learning, Computer Vision**
 * **Operations Research**
