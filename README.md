@@ -1,6 +1,11 @@
 <p align="center">
   <img src = "https://github.com/AndryRafam/andryrafam/blob/main/neural_network.gif" width="1000" height="800">
 </p>
+<h2 align="left"> 📜 Field of Intereset </h2>
+* **C++ Software Development, System Programming.**
+* **Parallel Programming, High Performance Computing/HPC**
+* **Artificial Intelligence - Deep Learning, Computer Vision**
+* **Operations Research**
 
 <h2 align="left"> 💻 Tech Stack: </h2>
 <p align="left">
