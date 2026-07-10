@@ -1,6 +1,6 @@
 <p align="center">
   <img src = "https://github.com/AndryRafam/andryrafam/blob/main/Maths.gif" width="1000" height="800">
-   <h2 align="center"> Hi 👋, I am Andry. Welcome to my GitHub page. 🇲🇬 </h2>
+   <h1 align="center"> Hi 👋, I am Andry. 🇲🇬 </h1>
 </p>
 <h3 align="left"> 📜 Field of Intereset 📜 </h3>
 
