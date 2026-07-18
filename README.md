@@ -4,10 +4,9 @@
 </p>
 <h3 align="left"> 📜 Field of Intereset 📜 </h3>
 
-* **C++ Software Development, C++ System Programming**
-* **Parallel Programming, High Performance Computing (HPC)**
-* **Artificial Intelligence - Deep Learning, Computer Vision**
-* **Operations Research**
+* Software Development, System Programming - C++
+* Parallel Programming && High Performance Computing
+* Applied Mathematics: Artificial Intelligence, Opertions Research
 
 <h3 align="left"> 💻 Tech Stack 💻 </h3>
 <p align="left">
