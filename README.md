@@ -6,7 +6,7 @@
 
 * Software Development, System Programming - C++
 * Parallel Programming && High Performance Computing
-* Applied Mathematics: Artificial Intelligence, Opertions Research
+* Applied Mathematics: Artificial Intelligence, Operations Research
 
 <h3 align="left"> 💻 Tech Stack 💻 </h3>
 <p align="left">
